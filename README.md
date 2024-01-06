@@ -49,8 +49,8 @@
    <img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
       <img src="https://img.informer.com/icons_mac/png/128/479/479129.png" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-           <img src="     https://gpsrb.ru/upload/iblock/b82/altht95nli0waicg5jkqv9xx4lzyf87w.jpg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-      
+             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+
 
 </div>
 
