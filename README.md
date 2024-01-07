@@ -37,7 +37,6 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81c96a17486759.562baa4a0ba2a.png" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://logocharts.com/wp-content/uploads/2021/12/Java-Logo-1600x1600.png" title="html5" alt="html5" width="40" height="40"/>&nbsp
     <img src="https://icon-library.com/images/postgres-icon/postgres-icon-25.jpg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-     <img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-6.png" title="html5" alt="html5" width="40" height="40"/>&nbsp
  
 </div>
 
@@ -50,6 +49,7 @@
   <img src="https://cdn.jim-nielsen.com/macos/1024/xcode-2020-11-11.png" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
    <img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+    <img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-6.png" title="html5" alt="html5" width="40" height="40"/>&nbsp
      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
       <img src="https://img.informer.com/icons_mac/png/128/479/479129.png" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
              <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
